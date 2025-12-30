@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/itsmekarthikpilli/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://drive.google.com/file/d/1DAvXh5f7rGmMwNGjaF9Pnbk8jUjnyF8A/view">
+  <a href="https://drive.google.com/file/d/1a53usUp6Q1b0wAkweacC2LP1xvah3nKy/view">
     <img src="https://img.shields.io/badge/Resume-2ECC71?style=for-the-badge"/>
   </a>
   <a href="mailto:Karthik.pilli.careers@gmail.com">
@@ -22,41 +22,42 @@
 
 ## About Me
 
-I’m an **AI Engineer and Full-Stack Developer** focused on building **production-grade AI systems** — not demos.
+I’m an **AI Engineer and Full-Stack Developer** focused on building **production-grade AI systems**, not demos.
 
-I specialize in:
+My work centers on:
 - **LLMs & Generative AI**
 - **Retrieval-Augmented Generation (RAG)**
 - **AI automation & intelligent workflows**
-- **Scalable full-stack AI products**
+- **Scalable full-stack AI platforms**
 
-I’ve delivered **15+ real-world AI & web applications**, handled **1000+ DAU workloads**, and built systems that reduce manual effort, improve decision-making, and scale reliably in production.
+I’ve delivered **15+ real-world AI & web applications**, handled **1000+ daily active users**, and built systems that reduce manual effort, improve decision-making, and scale reliably.
 
 ---
 
 ## Core Expertise
 
-**AI & ML**
+### AI & Machine Learning
 - LLMs (GPT-based systems), RAG pipelines
 - NLP, conversational AI, speech-to-text
 - TensorFlow, Scikit-learn, PyTorch (working knowledge)
-- Vector search, embeddings, context retrieval
+- Vector databases, embeddings, context retrieval
 
-**Backend & Systems**
+### Backend & Systems
 - Node.js, Express, FastAPI, Spring Boot
-- REST APIs, authentication, role-based access
+- REST APIs, authentication, RBAC
 - PostgreSQL, MySQL, MongoDB
-- Cloud deployment (AWS, Vercel, Docker)
+- Cloud deployment: AWS, Vercel, Docker
 
-**Frontend**
+### Frontend
 - React, Next.js
 - HTML, CSS, JavaScript, Bootstrap
-- UI focused on clarity, speed, and usability
+- UX focused on speed, clarity, and usability
 
-**Engineering Foundations**
+### Engineering Foundations
 - Data Structures & Algorithms
-- OOP, system design
-- Agile development
+- Object-Oriented Programming
+- System design & scalable architectures
+- Agile development practices
 
 ---
 
@@ -65,26 +66,26 @@ I’ve delivered **15+ real-world AI & web applications**, handled **1000+ DAU w
 ### Freelance Software & AI Developer  
 **Jan 2023 – Present | Remote**
 - Delivered **15+ AI and full-stack applications** for private clients
-- Built **AI automation workflows** using OpenAI APIs, saving **100+ hours/quarter**
+- Built **AI automation workflows** using OpenAI APIs, saving **100+ hours per quarter**
 - Designed scalable backends handling **1000+ DAU with zero downtime**
-- Maintained **92% client retention** through reliable delivery
+- Maintained **92% client retention** through reliable, production-ready delivery
 
 ### AI Developer Intern  
 **VegaH — Jul 2025 – Aug 2025 (Remote)**
 - Built **RAG-based AI systems** for intelligent information retrieval
 - Worked on NLP, conversational AI, and UI improvements
-- Gained hands-on experience in remote, production-grade workflows
+- Gained hands-on experience in remote, production-grade AI workflows
 
 ### Software Developer  
 **RenoDesignLabs — Sep 2023 – May 2024**
-- Built product prototypes using Java & JavaScript
-- Developed REST APIs and frontend interfaces
-- Improved UX and reduced user errors by **30–35%**
+- Developed product prototypes using Java and JavaScript
+- Built REST APIs and responsive frontends
+- Improved UX by **30%** and reduced user errors by **35%**
 
 ### Engineering Intern  
 **DRDO (Govt. of India) — Jun 2022 – Nov 2022**
 - Worked on cable harness testing methodologies
-- Improved operational efficiency and technical documentation
+- Improved operational efficiency and technical documentation quality
 
 ---
 
@@ -93,19 +94,19 @@ I’ve delivered **15+ real-world AI & web applications**, handled **1000+ DAU w
 ### AI-Powered Mock Interview Platform
 **React · TensorFlow · Python · OpenAI**
 - Context-aware interview simulations
-- Real-time feedback using NLP
-- Improved user confidence by **45%**
+- Real-time NLP-based feedback
+- Improved interview confidence by **45%**
 
 ### AI-Powered Rural Governance System
 **Python · NLP · Speech-to-Text · Flask**
 - Voice-based grievance reporting in Indian languages
-- Converts speech into structured government reports
+- Converts speech into structured government-ready reports
 - Offline-first architecture for rural environments
 
 ### Student Management System
 **Java · Spring Boot · MySQL**
 - Secure full-stack CRUD system
-- Role-based authentication with Spring Security
+- Role-based authentication using Spring Security
 
 ### Customer Support AI Chatbot
 **Python · NLP · TensorFlow**
@@ -119,7 +120,7 @@ I’ve delivered **15+ real-world AI & web applications**, handled **1000+ DAU w
 - **IBM AI Engineering Specialization**
 - **IBM Full-Stack Software Developer**
 - Building Deep Learning Models with TensorFlow
-- Multiple industry simulations (BCG, Walmart, Accenture, Goldman Sachs, JP Morgan)
+- Industry simulations: BCG, Walmart, Accenture, Goldman Sachs, JP Morgan
 
 ---
 
@@ -136,7 +137,6 @@ I’ve delivered **15+ real-world AI & web applications**, handled **1000+ DAU w
 ---
 
 ## What I’m Building Next
-
 - Agent-based AI systems
 - Advanced RAG architectures
 - Production-scale GenAI SaaS platforms
@@ -145,11 +145,11 @@ I’ve delivered **15+ real-world AI & web applications**, handled **1000+ DAU w
 
 ## Contact
 
-If you’re working on **AI products, GenAI platforms, or automation systems** — let’s talk.
+If you’re building **AI products, GenAI platforms, or automation systems**, let’s talk.
 
 📧 **Karthik.pilli.careers@gmail.com**  
 🔗 **linkedin.com/in/itsmekarthikpilli**
 
 ---
 
-⭐ If something here helped you, star a repo — it helps more than you think.
+⭐ If something here helped you, star a repository.
