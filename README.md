@@ -1,92 +1,155 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=c8a4ea&height=190&section=header&text=Pilli%20Karthik&fontColor=236FD7&fontAlignX=45&fontAlignY=65&fontSize=80&animation=twinkling)
 
-<h1 align="center">👋 Welcome to Pilli Karthik's GitHub Profile 👋</h1>
+<h1 align="center">Pilli Karthik</h1>
+<h3 align="center">AI Engineer | Full-Stack Developer | Applied GenAI & RAG Systems</h3>
 
 <p align="center">
-  <a href="https://pilli-karthik-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FA829D?style=for-the-badge&logo=D-Wave Systems&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/itsmekarthikpilli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1DAvXh5f7rGmMwNGjaF9Pnbk8jUjnyF8A/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge&logo=airplayvideo&logoColor=white"/></a>
-  <a href="mailto:kkbae143@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
-
-## 🚀 About Me
-
-I'm Pilli Karthik, an AI Engineer and Full Stack Developer passionate about building intelligent, functional, and impactful solutions. My expertise spans AI, machine learning, and full-stack development, where I aim to create scalable applications that solve real-world problems in my.
-
-- 🎓 Pursuing BTech in Computer Science and Engineering (IoT) at HITAM College, Hyderabad, India
-- 💡 Specializing in AI, machine learning, deep learning, cloud-native development, and API integrations
-- 🌱 Always eager to take on new challenges that foster learning and innovation
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-## 🌟 Featured Projects
-
-### 1. AI-Driven Mock Interviews
-An advanced SaaS platform leveraging AI for realistic interview simulations. [View Project](https://ai-mockup.vercel.app/)
-
-### 2. AI-Course Generator
-A cutting-edge software for generating personalized, interactive courses using AI. [View Project](https://ai-course-generator-six.vercel.app/)
-
-### 3. CarePulse - Health Management System
-An innovative healthcare platform streamlining medical processes. [View Demo](https://www.youtube.com/watch?v=lEflo_sc82g)
-
-### 4. Chat Dapp
-A Web 3.0 application revolutionizing content creation with AI and blockchain. [View Project](https://mega-bot-sigma.vercel.app/)
-
-### 5. Personalized Cancer Care Treatment Using AI
-An AI-powered system for personalized cancer treatment plans. [View Project](https://demux-404hacks.vercel.app/)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KKBAE143&show_icons=true&theme=aura" alt="Pilli Karthik's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKBAE143&theme=algolia" alt="Pilli Karthik's GitHub Profile Summary" />
-</p>
-
-## 🎨 Fun Zone
-
-<p align="center">
-  <img src="./full-stack-development.gif" height="310" alt="Full Stack Development GIF"/>
-</p>
-
-## 📬 Get in Touch
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-
-
-<p align="center">
-  <strong>Contact me</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:Kkbae143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Kkbae143%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  <a href="https://pilli-karthik-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FA829D?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/itsmekarthikpilli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1DAvXh5f7rGmMwNGjaF9Pnbk8jUjnyF8A/view">
+    <img src="https://img.shields.io/badge/Resume-2ECC71?style=for-the-badge"/>
+  </a>
+  <a href="mailto:Karthik.pilli.careers@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
+---
+
+## About Me
+
+I’m an **AI Engineer and Full-Stack Developer** focused on building **production-grade AI systems** — not demos.
+
+I specialize in:
+- **LLMs & Generative AI**
+- **Retrieval-Augmented Generation (RAG)**
+- **AI automation & intelligent workflows**
+- **Scalable full-stack AI products**
+
+I’ve delivered **15+ real-world AI & web applications**, handled **1000+ DAU workloads**, and built systems that reduce manual effort, improve decision-making, and scale reliably in production.
 
 ---
 
+## Core Expertise
+
+**AI & ML**
+- LLMs (GPT-based systems), RAG pipelines
+- NLP, conversational AI, speech-to-text
+- TensorFlow, Scikit-learn, PyTorch (working knowledge)
+- Vector search, embeddings, context retrieval
+
+**Backend & Systems**
+- Node.js, Express, FastAPI, Spring Boot
+- REST APIs, authentication, role-based access
+- PostgreSQL, MySQL, MongoDB
+- Cloud deployment (AWS, Vercel, Docker)
+
+**Frontend**
+- React, Next.js
+- HTML, CSS, JavaScript, Bootstrap
+- UI focused on clarity, speed, and usability
+
+**Engineering Foundations**
+- Data Structures & Algorithms
+- OOP, system design
+- Agile development
+
+---
+
+## Professional Experience
+
+### Freelance Software & AI Developer  
+**Jan 2023 – Present | Remote**
+- Delivered **15+ AI and full-stack applications** for private clients
+- Built **AI automation workflows** using OpenAI APIs, saving **100+ hours/quarter**
+- Designed scalable backends handling **1000+ DAU with zero downtime**
+- Maintained **92% client retention** through reliable delivery
+
+### AI Developer Intern  
+**VegaH — Jul 2025 – Aug 2025 (Remote)**
+- Built **RAG-based AI systems** for intelligent information retrieval
+- Worked on NLP, conversational AI, and UI improvements
+- Gained hands-on experience in remote, production-grade workflows
+
+### Software Developer  
+**RenoDesignLabs — Sep 2023 – May 2024**
+- Built product prototypes using Java & JavaScript
+- Developed REST APIs and frontend interfaces
+- Improved UX and reduced user errors by **30–35%**
+
+### Engineering Intern  
+**DRDO (Govt. of India) — Jun 2022 – Nov 2022**
+- Worked on cable harness testing methodologies
+- Improved operational efficiency and technical documentation
+
+---
+
+## Selected Projects
+
+### AI-Powered Mock Interview Platform
+**React · TensorFlow · Python · OpenAI**
+- Context-aware interview simulations
+- Real-time feedback using NLP
+- Improved user confidence by **45%**
+
+### AI-Powered Rural Governance System
+**Python · NLP · Speech-to-Text · Flask**
+- Voice-based grievance reporting in Indian languages
+- Converts speech into structured government reports
+- Offline-first architecture for rural environments
+
+### Student Management System
+**Java · Spring Boot · MySQL**
+- Secure full-stack CRUD system
+- Role-based authentication with Spring Security
+
+### Customer Support AI Chatbot
+**Python · NLP · TensorFlow**
+- Intent recognition with **85% accuracy**
+- Production-ready conversational interface
+
+---
+
+## Certifications
+
+- **IBM AI Engineering Specialization**
+- **IBM Full-Stack Software Developer**
+- Building Deep Learning Models with TensorFlow
+- Multiple industry simulations (BCG, Walmart, Accenture, Goldman Sachs, JP Morgan)
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  Thanks for visiting my profile! Don't forget to star ⭐ some repositories if you find them interesting!
+  <img src="https://github-readme-stats.vercel.app/api?username=KKBAE143&show_icons=true&theme=aura"/>
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKBAE143&theme=algolia"/>
+</p>
+
+---
+
+## What I’m Building Next
+
+- Agent-based AI systems
+- Advanced RAG architectures
+- Production-scale GenAI SaaS platforms
+
+---
+
+## Contact
+
+If you’re working on **AI products, GenAI platforms, or automation systems** — let’s talk.
+
+📧 **Karthik.pilli.careers@gmail.com**  
+🔗 **linkedin.com/in/itsmekarthikpilli**
+
+---
+
+⭐ If something here helped you, star a repo — it helps more than you think.
