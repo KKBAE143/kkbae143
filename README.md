@@ -4,7 +4,7 @@
 <h3 align="center">AI Engineer | Full-Stack Developer | Applied GenAI & RAG Systems</h3>
 
 <p align="center">
-  <a href="https://pilli-karthik-portfolio.netlify.app/">
+  <a href="https://www.pillikarthik.in/">
     <img src="https://img.shields.io/badge/Portfolio-FA829D?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/itsmekarthikpilli/">
