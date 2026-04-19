@@ -293,7 +293,7 @@ Conversational AI chatbot with ML classification models. Intent recognition trai
 <br/><br/>
 
 <!-- GITHUB TROPHIES — NEW -->
-<img src="https://github-profile-trophy.vercel.app/?username=KKBAE143&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KKBAE143&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 
 <br/><br/>
 
